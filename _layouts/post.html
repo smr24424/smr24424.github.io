@@ -53,7 +53,7 @@ tail_includes:
         <span>
           {% if page.author %} {% assign authors = page.author %} {% elsif
           page.authors %} {% assign authors = page.authors %} {% endif %} {{
-          site.data.locales[lang].post.written_by }} {{ page.author }}
+          site.data.locales[lang].post.written_by }}
           <em>
             {% if authors %} {% for author in authors %} {% if
             site.data.authors[author].url -%}
