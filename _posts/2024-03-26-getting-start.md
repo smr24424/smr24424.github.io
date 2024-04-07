@@ -5,7 +5,7 @@ description: >-
 author: Arthur Chen
 date: 2024-03-26 16:00:00 +0800
 categories: [Frontend, Developer]
-tags: [Frontend, 前端]
+tags: [Frontend]
 # pin: true
 # img_path: '/posts/20180809'
 ---
