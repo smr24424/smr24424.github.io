@@ -1,0 +1,78 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Arthur</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-04-07T20:34:41+08:00</updated>
+  <author>
+    <name>Arthur Chen</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Arthur Chen </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>如何成為一名前端工程師</title>
+    <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="如何成為一名前端工程師" />
+    <published>2024-03-26T16:00:00+08:00</published>
+  
+    <updated>2024-04-07T20:09:37+08:00</updated>
+  
+    <id>http://localhost:4000/posts/getting-started/</id>
+    <content src="http://localhost:4000/posts/getting-started/" />
+    <author>
+      <name>Arthur Chen</name>
+    </author>
+
+  
+    
+    <category term="Frontend" />
+    
+    <category term="Developer" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      前言
+
+哈囉大家~
+
+這是我的第一篇文章，想和大家分享何謂前端工程師，並且從甚麼方向入門比較快，讓零基礎的人也可以快速理解，以下正文開始。
+
+先決條件
+
+
+  善用 google，聽起來很奇怪對嗎? 但這是真的，無論是學習一個新的程式語言或者是在編寫的過程中遇到問題，幾本上都可以透過 google 來解決。
+  大膽假設，因為前端有許許多多的套件，當你認為這個功能應該要存在，就不要怕大膽去搜尋，使用套件可以加速你的開發，即使套件跟你想像的有些落差也可以自己修改成你所需的套件。
+
+
+所以我認為善用 google 不只可以加速學習並且可以讓你事半功倍。
+
+技能
+
+甚麼是前端工程師? 用一句話來解就是，實現 UI，提升 UX，
+
+所謂 UI (使用者介面)就是使用者所看到的畫面，包含整體的形狀、顏色、排版等等，至於UX(使用者體驗)就是使用者在使用的過程中的方便性、流暢性等等，單然並不是說...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
