@@ -5,7 +5,7 @@ description: >-
 author: Arthur Chen
 date: 2024-03-26 16:00:00 +0800
 categories: [Frontend, Developer]
-tags: [Frontend]
+tags: [Frontend, 前端]
 # pin: true
 # img_path: '/posts/20180809'
 ---
@@ -40,8 +40,3 @@ tags: [Frontend]
 在前端的世界裡很常常一兩年就會有大更新，大家一定要多多看看，不一定所有新功能都要實作，但一定要知道有甚麼新的功能，這樣不只可以提升自己也可以提升專案的品質。
 
 最後歡迎大家加入前端的行列，如有任何問題的都可以私訊我的信箱，我們下次見~
-
-<!-- [nodejs]: https://nodejs.org/
-[starter]: https://github.com/cotes2020/chirpy-starter
-[pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
-[latest-tag]: https://github.com/cotes2020/jekyll-theme-chirpy/tags -->
