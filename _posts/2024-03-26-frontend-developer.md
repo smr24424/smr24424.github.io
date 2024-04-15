@@ -4,7 +4,7 @@ description: >-
   淺談一名前端工程師須具備的條件和技能
 author: Arthur Chen
 date: 2024-03-26 16:00:00 +0800
-categories: [Frontend, Developer]
+categories: [Frontend]
 tags: [Frontend, 前端]
 # pin: true
 # img_path: '/posts/20180809'
