@@ -14,6 +14,6 @@ order: 4
 
 ## 技能
 
-Web 的部分主要是使用**React**進行開發，App 的部分是用**Flutter**，且有上架 Google Play & App Store 的經驗。
+Web 的部分主要是使用**React**進行開發，App 的部分是用**Flutter**，有上架 Google Play & App Store 的經驗。
 
-對於其他方面略有涉獵，例如:&ensp;**爬蟲**、**Line bot**、**Telegram bot**、**nodejs**、**drone**、**Ionic**、**Angular**、**Vue**等等。
+對於其他方面略有涉獵，例如:&ensp;**爬蟲**、**SEO**、**Line bot**、**Telegram bot**、**nodejs**、**drone**、**Ionic**、**Angular**、**Vue**等等。
