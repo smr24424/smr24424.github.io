@@ -14,7 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Arthur # the main title
+name: Arthur #menu name
+
+title: Arthur | 前端工程師 | 程式愛好者 | Arthur Blog # og: title
 
 tagline: 前端工程師 # it will display as the sub-title
 
