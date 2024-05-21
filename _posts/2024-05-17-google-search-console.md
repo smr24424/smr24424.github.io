@@ -48,7 +48,7 @@ tags: [Google Search Console, sitemap, SEO]
 
 現在我們要提交剛剛放到主機上的**sitemap**來告訴**Google**我們的網站有哪些文章讓它來爬取，
 
-在紅框中輸入&ensp;`"你的網站的網址" + /sitemap.xml`後按下驗證
+在紅框中輸入&ensp;`sitemap.xml`&ensp;後按下驗證
 ![Alt](assets/img/post-img/gsc-4.png)
 
 看到<font color="green">`成功`</font>後，接下來等大約 1 周的時間就可以了。
