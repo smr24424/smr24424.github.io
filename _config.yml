@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 name: Arthur #menu name
 
-title: Arthur's Blog - 分享技術、解決問題 # og: title
+title: Arthur Blog - 分享技術、解決問題 # og: title
 
 tagline: 前端工程師 # it will display as the sub-title
 
