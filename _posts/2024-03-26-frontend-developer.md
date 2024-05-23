@@ -1,7 +1,7 @@
 ---
-title: 如何成為一名前端工程師
+title: 如何成為前端工程師
 description: >-
-  淺談一名前端工程師須具備的條件和技能
+  淺談前端工程師須具備的條件和技能
 author: Arthur Chen
 date: 2024-03-26 16:00:00 +0800
 categories: [Frontend]
