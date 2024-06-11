@@ -31,8 +31,18 @@
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://smr24424.github.io/posts/async-and-threading/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/posts/google-search-console/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://smr24424.github.io/posts/xcode15-bug/</loc>
-    <lastmod>2024-05-21T01:09:04+00:00</lastmod>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -66,7 +76,17 @@
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://smr24424.github.io/tags/async/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://smr24424.github.io/tags/flutter/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/tags/google-search-console/</loc>
     <lastmod>2024-05-15T02:53:20+00:00</lastmod>
     <priority>0.80</priority>
   </url>
@@ -91,12 +111,12 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://smr24424.github.io/tags/web-server/</loc>
+    <loc>https://smr24424.github.io/tags/seo/</loc>
     <lastmod>2024-05-15T02:53:20+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://smr24424.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://smr24424.github.io/tags/sitemap/</loc>
     <lastmod>2024-05-15T02:53:20+00:00</lastmod>
     <priority>0.80</priority>
   </url>
@@ -111,7 +131,47 @@
     <priority>0.64</priority>
   </url>
   <url>
+    <loc>https://smr24424.github.io/categories/google-search-console/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
     <loc>https://smr24424.github.io/categories/nginx/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/categories/xcode/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/tags/threading/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/tags/web-server/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/tags/xcode/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/tags/xcode-15/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/tags/xcode-update/</loc>
+    <lastmod>2024-05-15T02:53:20+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://smr24424.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2024-05-15T02:53:20+00:00</lastmod>
     <priority>0.64</priority>
   </url>
