@@ -1,7 +1,7 @@
 ---
-title: Google Search Console - 超簡單教學
+title: Google Search Console - 如何讓人搜尋到網站
 description: >-
-  在設定完SEO後，就需要使用Google Search Console來告訴Google
+  如何讓人搜尋到我的網站，在設定完SEO後，就需要使用Google Search Console來告訴Google
 author: Arthur Chen
 date: 2024-05-21 13:00 +0800
 categories: [Google Search Console]
