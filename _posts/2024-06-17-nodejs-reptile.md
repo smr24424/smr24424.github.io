@@ -55,7 +55,7 @@ const headers = {
 
 ## 步驟 4
 
-寫爬蟲 function
+寫爬蟲 function，用來獲取每篇文章的 title
 
 ```js
 const GetITHelpItems = (page) => {
