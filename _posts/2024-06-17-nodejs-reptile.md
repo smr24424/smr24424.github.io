@@ -79,7 +79,7 @@ const GetITHelpItems = (page) => {
 };
 ```
 
-## 步驟五
+## 步驟 5
 
 將獲取的結果寫入 txt
 
